@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @NicolasMoranStefanini
-- 👀 Open to work
-- 🌱 I’m currently learning React.js and js
+- 🌱 I’m currently working at CellCraft Labs
 - 📫 https://www.linkedin.com/in/nicolasmoran/
